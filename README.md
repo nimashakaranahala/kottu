@@ -1,3 +1,3 @@
 # royalkottu-uk
-Royal Kottu Full stack Website
+Full stack hotel Website
 
