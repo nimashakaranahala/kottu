@@ -1,0 +1,78 @@
+.popup{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(73, 70, 70, 0.6);
+    z-index: 1001;
+}
+
+.popup-inner{
+    border: 2px;
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 640px;
+    background-color: #fff;
+    align-items: center;
+}
+
+.popup-header{
+    text-align: center;
+    background: white;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);  
+    width: 60%;
+    border-radius: 17px;
+
+}
+
+.item-content-border {
+    
+    text-align: center;
+}
+
+.close-button {
+    position: absolute;
+    
+    color: white;
+    top: -33px;
+    right: -32px;
+    
+
+}
+h1{
+    text-decoration: underline;
+}
+
+.user-ads {
+    font-size: 14px;
+    text-align: left;
+    margin-left: -55px;
+  }
+  
+  .user-ads li {
+    position: relative;
+    padding-bottom: 17px;
+    padding-left: 25px;
+  }
+  
+  .user-ads li span {
+    float: right;
+  }
+  .card{
+    width: 30%;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    left: 35%;
+    right: 50%;
+    
+    
+  }
+  ul.a {
+    list-style-type: square;
+  }
